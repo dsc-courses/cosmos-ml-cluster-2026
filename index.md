@@ -18,7 +18,7 @@ nav_order: 1
 <!-- [Recordings](https://podcast.ucsd.edu/){: .btn .btn-blue } -->
 
 {: .note }
-**July 7, 2025:** Welcome to COSMOS 2025 Cluster 12!
+**July 7, 2025:** Welcome to COSMOS 2026 Cluster 7!
 
 {% for module in site.modules %}
 {{ module }}

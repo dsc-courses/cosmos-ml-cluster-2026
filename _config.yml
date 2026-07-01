@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: COSMOS Cluster 12
-description: COSMOS Cluster 12, Summer 2025 at UC San Diego
+title: COSMOS Cluster 7
+description: COSMOS Cluster 7, Summer 2026 at UC San Diego
 tagline: "Machine Learning: Can We Teach a Computer to Think?"
 # baseurl: '/cosmos-ml-cluster-2025' # the subpath of your site, e.g. /blog
 # url: 'https://dsc-courses.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
@@ -28,8 +28,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  🙋 EdStem:
-    - 'https://edstem.org/us/courses/80455/discussion'
 footer_content:
 
 # Collections for website data
@@ -42,29 +40,29 @@ collections:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ''
+      path: ""
       type: staffers
     values:
       layout: staffer
-      subpath: '/assets/images/'
+      subpath: "/assets/images/"
   - scope:
-      path: ''
+      path: ""
       type: staffersnobio
     values:
       layout: staffer_no_bio
-      subpath: '/assets/images/'
+      subpath: "/assets/images/"
   - scope:
-      path: ''
+      path: ""
       type: modules
     values:
       layout: module
   - scope:
-      path: ''
+      path: ""
       type: schedules
     values:
       layout: schedule
   - scope:
-      path: ''
+      path: ""
       type: announcements
     values:
       layout: announcement
