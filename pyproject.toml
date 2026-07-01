@@ -1,0 +1,54 @@
+[project]
+name = "cosmos-ml-cluster-2025"
+version = "0.1.0"
+description = "COSMOS ML Cluster 2025"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4==4.12.3",
+    "docopt==0.6.2",
+    "ipywidgets==8.1.5",
+    "jupyterlab==4.2.5",
+    "jupyterlab-server==2.27.3",
+    "jupyterlab-widgets==3.0.13",
+    "matplotlib==3.9.2",
+    "matplotlib-inline==0.1.7",
+    "mistune>=2.0.3,<3",
+    "nbclassic==1.1.0",
+    "nbconvert==7.16.4",
+    "notebook==7.2.2",
+    "numpy==2.1.1",
+    "pandas==2.2.3",
+    "plotly==5.24.1",
+    "pydantic==2.9.2",
+    "pyOpenSSL==24.2.1",
+    "pytest-xdist==3.6.1",
+    "PyYAML==6.0.2",
+    "requests==2.32.3",
+    "requests-oauthlib==2.0.0",
+    "scikit-learn==1.5.2",
+    "seaborn==0.13.2",
+    "SQLAlchemy==2.0.35",
+    "statsmodels==0.14.3",
+    "tqdm==4.66.5",
+    "urllib3==2.2.3",
+    "certifi==2024.8.30",
+    "geopandas==1.0.1",
+    "shapely==2.0.6",
+    "pyogrio==0.9.0",
+    "pandas-tutor>=2.0.4",
+]
+
+[project.optional-dependencies]
+dev = [
+    "jupyterlab-rise",
+    "pyperclip==1.8.2",
+    "pytest-xdist==3.6.1",
+    "colorful==0.5.6",
+    "ty>=0.0.1a15",
+]
+sam = [
+  "jupyterlab-vim",
+]
+
+[tool.pyright]
+exclude = ["**/*ipynb"]
