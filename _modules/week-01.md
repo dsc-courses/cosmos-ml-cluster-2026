@@ -17,15 +17,11 @@ days:
       #   url:
       - name: LEC
         type: lecture
-        title: Welcome
+        title: "Python Basics: Expressions, Data Types, Strings, and Lists"
         url:
       - name: LEC
         type: lecture
-        title: Intro to Pandas
-        url:
-      - name: LAB
-        type: lab
-        title: Data Science in Python
+        title: Arrays and DataFrames
         url:
       - name: PROJ
         type: proj
@@ -41,7 +37,11 @@ days:
     events:
       - name: LEC
         type: lecture
-        title: Python Basics
+        title: Querying and Grouping
+        url:
+      - name: LEC
+        type: lecture
+        title: Grouping and Data Visualization
         url:
       - name: LEC
         type: lecture
@@ -57,6 +57,10 @@ days:
     events:
       - name: LEC
         type: lecture
-        title: Working with Data (numpy and pandas)
+        title: Functions and Applying
+        url:
+      - name: LEC
+        type: lecture
+        title: Grouping on Multiple Columns, Merging
         url:
 ---

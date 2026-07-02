@@ -28,10 +28,6 @@ days:
         type: lecture
         title: K Nearest Neighbor & Logistic Regression
         url:
-      - name: LEC
-        type: lecture
-        title: Pro. Benjamin Smarr - Why is health hard for AI?
-        url:
   - date: "2026-07-16"
     events:
       - name: LEC

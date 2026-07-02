@@ -6,19 +6,16 @@ days:
     events:
       - name: PROJ
         type: proj
-        title: Work on Final Project & Presentation 
-      - name: LEC
-        type: lecture
-        title: Demystifying Generative AI w/ Prof. Taylor Berg-Kirkpatrick
+        title: Work on Final Project & Presentation
   - date: "2026-07-28"
     events:
       - name: SURVEY
         type: survey
-        title: COSMOS 2026 Cluster 12 Survey ** PLEASE COMPLETE **
+        title: COSMOS 2026 Cluster 12 Survey
         url:
       - name: PROJ
         type: proj
-        title: Work on Final Project & Presentation 
+        title: Work on Final Project & Presentation
   - date: "2026-07-29"
     events:
       - name: PROJ
@@ -37,6 +34,6 @@ days:
     events:
       - name: PROJ
         type: proj
-        title: Presentation Schedule 
+        title: Final Project Presentations
         url:
 ---
