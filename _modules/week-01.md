@@ -25,7 +25,7 @@ days:
         url:
       - name: PROJ
         type: proj
-        title: Intro to Python and ML
+        title: Working with Data in Python
         url: projects/proj01/
   - date: "2026-07-07"
     events:
