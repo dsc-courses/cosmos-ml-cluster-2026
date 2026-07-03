@@ -5,7 +5,7 @@ pronouns: he/him
 email: lau@ucsd.edu
 website: https://lau.ucsd.edu/
 photo: assets/images/lau.jpg
-lecture: Mon, Wed, Fri 9:00am-12:00pm in CSE 2154
+lecture: Mon, Wed, Fri 9:00am-12:00pm in HDSI 123
 ---
 
 Sam Lau is an assistant teaching professor in the Halıcıoğlu Data Science
