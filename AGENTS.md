@@ -27,7 +27,7 @@ instructions when copying a lab or homework from DSC 10:
 - in the cell that sets up imports, the first line should run !pip install otter-grader==6.1.6, but only if the notebook is open in Google Colab (not locally).
 - in the cell that sets up imports, include a snippet like this one so that the datasets are loaded when running in google colab:
   ```
-  path = 'labs/lab01' # change this to the lab
+  path = 'labs/lab01/build/student' # change this to the lab, keep the build/student part at the end
   if not Path("data").exists():
       !wget -q -O /content/course.zip https://github.com/dsc-courses/cosmos-ml-cluster-2026/archive/refs/heads/main.zip
       !unzip -q -o /content/course.zip "cosmos-ml-cluster-2026-main/{path}/data/*" -d /content/course-assets

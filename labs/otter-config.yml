@@ -1,0 +1,7 @@
+# reference: https://otter-grader.readthedocs.io/en/latest/otter_assign/notebook_format.html
+init_cell: false
+export_cell: false
+check_all_cell: false
+generate:
+  points_possible: 100
+  show_hidden: true
