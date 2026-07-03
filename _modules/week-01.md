@@ -18,11 +18,11 @@ days:
       - name: LEC
         type: lecture
         title: "Python Basics: Expressions, Data Types, Strings, and Lists"
-        url:
+        url: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/lectures/lec01/lec01.ipynb
       - name: LEC
         type: lecture
         title: Arrays and DataFrames
-        url:
+        url: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/lectures/lec02/lec02.ipynb
       - name: PROJ
         type: proj
         title: Working with Data in Python
