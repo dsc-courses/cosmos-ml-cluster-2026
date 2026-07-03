@@ -1,5 +1,6 @@
 .OTTER_LOG
 scripts/emnist
+**/build/autograder/
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,jekyll,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jekyll,macos

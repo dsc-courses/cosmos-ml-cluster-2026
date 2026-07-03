@@ -2,6 +2,8 @@
 init_cell: false
 export_cell: false
 check_all_cell: false
+tests:
+  files: true
 generate:
   points_possible: 100
   show_hidden: true
