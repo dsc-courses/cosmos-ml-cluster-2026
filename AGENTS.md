@@ -20,6 +20,15 @@ instructions when copying a lecture from DSC 10:
 instructions when copying a lab or homework from DSC 10:
 
 - DSC 10 assignments have a src/ and a build/ folder. copy the src/ folder over and keep all the solutions, ignore the build/ folder. (i have a separate script to regenerate the student-facing version in the build/ folder.)
+- the very first cell of the notebook should be a raw cell with otter config:
+
+  ```
+  # ASSIGNMENT CONFIG
+  config_file: ../../otter-config.yml
+  files:
+      - data
+  ```
+
 - remove due dates
 - remove instructions (e.g. slip days, hidden test cases, etc.)
 - remove all mentions to Gradescope, so sentences like "You should complete this entire lab so that all tests pass and submit it to Gradescope by 11:59PM on the due date." should just be reworded to "You should complete this entire lab so that all tests pass".
