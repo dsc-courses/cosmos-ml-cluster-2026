@@ -11,6 +11,7 @@ nav_order: 1
 [license-challenge]: https://drive.google.com/open?id=1ImsiLza2ZWir7M0MlqGCMO-Ead6PTS1g&usp=drive_fs
 [restaurant-challenge]: https://drive.google.com/open?id=1c58o8CY3f-fwoXXYwzerpZskGDl8_QmD&usp=drive_fs
 [lab01]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/labs/lab01/build/student/lab01.ipynb
+[lab01]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/labs/lab02/build/student/lab02.ipynb
 
 Feel free to work with a partner on all of these challenges!
 
@@ -22,7 +23,7 @@ Complete this lab: [Lab 01][lab01]
 
 ## Lab 02
 
-Complete this lab:
+Complete this lab: [Lab 02][lab02]
 
 ## Challenge Problems (Optional)
 
