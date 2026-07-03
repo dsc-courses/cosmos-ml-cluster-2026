@@ -27,6 +27,7 @@ instructions when copying a lab or homework from DSC 10:
   config_file: ../../otter-config.yml
   files:
       - data
+      - images
   ```
 
 - remove due dates
@@ -34,15 +35,8 @@ instructions when copying a lab or homework from DSC 10:
 - remove all mentions to Gradescope, so sentences like "You should complete this entire lab so that all tests pass and submit it to Gradescope by 11:59PM on the due date." should just be reworded to "You should complete this entire lab so that all tests pass".
 - there are no homeworks in COSMOS, only labs, so if i ask you to import a DSC 10 homework, make sure that mentions of "homework" are replaced with "lab".
 - in the cell that sets up imports, the first line should run !pip install otter-grader==6.1.6, but only if the notebook is open in Google Colab (not locally).
-- in the cell that sets up imports, include a snippet like this one so that the datasets are loaded when running in google colab:
-  ```
-  path = 'labs/lab01/build/student' # change this to the lab, keep the build/student part at the end
-  if not Path("data").exists():
-      !wget -q -O /content/course.zip https://github.com/dsc-courses/cosmos-ml-cluster-2026/archive/refs/heads/main.zip
-      !unzip -q -o /content/course.zip "cosmos-ml-cluster-2026-main/{path}/data/*" -d /content/course-assets
-      !cp -R /content/course-assets/cosmos-ml-cluster-2026-main/{path}/data .
-  ```
-- at the end of the lab, there's a place to cite AI tools. we can just remove this.
+- in the cell that sets up imports, make sure that datasets, images, and test cases are loaded when running in google colab. see the start of lab1.ipynb for an example
+- at the end of the lab, remove the place where DSC 10 students were originally supposed to cite AI tools.
 - remove the entire cell with the instructions for submission, since students don't need to submit anything in this class. but keep the grader.check_all() cell for convenience.
 - change `bpd` imports to `pd`. change babypandas mentions in the question text to `pandas`.
 - DSC 10 homeworks have hidden test cases, but i just want all test cases to be visible for students, so remove `# HIDDEN` comments or any other metadata so that all the test cases are public.
