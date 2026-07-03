@@ -19,10 +19,12 @@ instructions when copying a lecture from DSC 10:
 
 instructions when copying a lab or homework from DSC 10:
 
+- DSC 10 assignments have a src/ and a build/ folder. copy the src/ folder over and keep all the solutions, ignore the build/ folder. (i have a separate script to regenerate the student-facing version in the build/ folder.)
 - remove due dates
 - remove instructions (e.g. slip days, hidden test cases, etc.)
 - remove all mentions to Gradescope, so sentences like "You should complete this entire lab so that all tests pass and submit it to Gradescope by 11:59PM on the due date." should just be reworded to "You should complete this entire lab so that all tests pass".
 - there are no homeworks in COSMOS, only labs, so if i ask you to import a DSC 10 homework, make sure that mentions of "homework" are replaced with "lab".
+- in the cell that sets up imports, the first line should run !pip install otter-grader==6.1.6, but only if the notebook is open in Google Colab (not locally).
 - in the cell that sets up imports, include a snippet like this one so that the datasets are loaded when running in google colab:
   ```
   path = 'labs/lab01' # change this to the lab
