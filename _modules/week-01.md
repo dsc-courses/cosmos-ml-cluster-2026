@@ -41,8 +41,8 @@ days:
         url: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/lectures/lec03/lec03.ipynb
       - name: LEC
         type: lecture
-        title: Grouping and Data Visualization
-        url:
+        title: Data Visualization
+        url: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/lectures/lec04/lec04.ipynb
       - name: LEC
         type: lecture
         title: Prof. Haojian Jin - Data Science in the Physical World
