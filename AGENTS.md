@@ -41,3 +41,4 @@ instructions when copying a lab or homework from DSC 10:
 - change `bpd` imports to `pd`. change babypandas mentions in the question text to `pandas`.
 - DSC 10 homeworks have hidden test cases, but i just want all test cases to be visible for students, so remove `# HIDDEN` comments or any other metadata so that all the test cases are public.
 - DSC 10 students are UCSD undergrads, but COSMOS students are high schoolers, so point out any places where the material say things like "as a UCSD student, you have seen XYZ".
+- once finished, use the build script to generate the student version and verify that it looks good. if you run into an issue at this stage, pause and ask me for advice.

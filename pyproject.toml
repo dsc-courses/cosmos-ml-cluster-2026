@@ -20,6 +20,7 @@ dependencies = [
     "seaborn>=0.13.2,<0.13.3",
     "typer>=0.20.0,<0.21.0",
     "tqdm>=4.68.3,<4.69.0",
+    "folium>=0.20.0,<0.21.0",
 ]
 
 [project.optional-dependencies]
