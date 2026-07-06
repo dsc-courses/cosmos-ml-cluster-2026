@@ -38,7 +38,7 @@ days:
       - name: LEC
         type: lecture
         title: Querying and Grouping
-        url:
+        url: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/lectures/lec03/lec03.ipynb
       - name: LEC
         type: lecture
         title: Grouping and Data Visualization

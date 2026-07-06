@@ -14,6 +14,7 @@ instructions when copying a lecture from DSC 10:
         !unzip -q -o /content/course.zip "cosmos-ml-cluster-2026-main/{path}/data/*" -d /content/course-assets
         !cp -R /content/course-assets/cosmos-ml-cluster-2026-main/{path}/data .
     ```
+  - DSC 10 lectures sometimes ran overtime so the end of one lecture will be copied into the start of the next lecture. when importing a lecture, check to see whether the start of the proposed COSMOS lecture has any overlap with the previous COSMOS lecture, and if so, flag the content for removal.
   - finally, execute the notebook in the project env using `uv` to make sure that the code runs.
 - after verifying that the code runs, output a summary of all the changes made so i can review.
 
