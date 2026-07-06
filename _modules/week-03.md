@@ -8,10 +8,6 @@ days:
         type: lecture
         title: Natural Language Processing (part 2)
         url:
-      - name: Photo
-        type: image
-        title: Cluster 12 Group Photo
-        url:
   - date: "2026-07-22"
     events:
       - name: LEC
