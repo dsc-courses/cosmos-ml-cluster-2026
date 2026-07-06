@@ -40,3 +40,4 @@ instructions when copying a lab or homework from DSC 10:
 - remove the entire cell with the instructions for submission, since students don't need to submit anything in this class. but keep the grader.check_all() cell for convenience.
 - change `bpd` imports to `pd`. change babypandas mentions in the question text to `pandas`.
 - DSC 10 homeworks have hidden test cases, but i just want all test cases to be visible for students, so remove `# HIDDEN` comments or any other metadata so that all the test cases are public.
+- DSC 10 students are UCSD undergrads, but COSMOS students are high schoolers, so point out any places where the material say things like "as a UCSD student, you have seen XYZ".

@@ -1,0 +1,11 @@
+OK_FORMAT = True
+
+test = {   'name': 'q3_4',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(profit_proportion, pd.Series)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> len(profit_proportion) == 500\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> bool(np.isclose(profit_proportion.loc[1], 0.01910713))\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
