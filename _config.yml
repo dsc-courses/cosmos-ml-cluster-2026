@@ -23,6 +23,7 @@ exclude:
   # Site/support files.
   - Gemfile
   - Gemfile.lock
+  - AGENTS.md
   - LICENSE
   - README.md
   - scripts
