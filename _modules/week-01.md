@@ -32,7 +32,7 @@ days:
       - name: LEC
         type: lecture
         title: Science Communication - Overview of Communication
-        url:
+        url: https://docs.google.com/document/d/1zBtBj1NAVIl_qNG9f9ut1iiB4CojbK31H3zJltXg8rU/edit?usp=sharing
   - date: "2026-07-08"
     events:
       - name: LEC
@@ -46,13 +46,13 @@ days:
       - name: LEC
         type: lecture
         title: Prof. Haojian Jin - Data Science in the Physical World
-        url:
+        url: https://aismithlab.com/
   - date: "2026-07-09"
     events:
       - name: LEC
         type: lecture
         title: Science Communication - Ethics & Research
-        url:
+        url: https://docs.google.com/document/d/1zBtBj1NAVIl_qNG9f9ut1iiB4CojbK31H3zJltXg8rU/edit?usp=sharing
   - date: "2026-07-10"
     events:
       - name: LEC
