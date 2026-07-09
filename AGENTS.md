@@ -4,7 +4,9 @@
 - couple things to note about copying lectures over:
   - DSC 10 uses a package called babypandas, but COSMOS (this course) uses pandas instead. babypandas is just a subset of pandas, so just changing the import statement and changing `bpd` to `pd` should be enough.
   - all references to DSC 10 should be changed to COSMOS
+  - concept checks should stay, but remove the "Answer at cc.dsc10.com" part.
   - there are no office hours or Ed forum for COSMOS, so take out sentences that look like "if you have questions, ask us during office hours or on Ed".
+  - also, there are no quizzes or exams for COSMOS.
   - don't copy rise.css, but do copy datasets and images
   - sometimes cells will error deliberately. these cells should already have the `raises-exception` cell tag so you don't need to do anything extra.
   - in the cell that sets up imports, include a snippet like this one so that the datasets are loaded when running in google colab:

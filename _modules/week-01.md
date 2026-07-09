@@ -57,10 +57,10 @@ days:
     events:
       - name: LEC
         type: lecture
-        title: Functions and Applying
-        url:
+        title: Histograms, Functions, and Applying
+        url: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/lectures/lec05/lec05.ipynb
       - name: LEC
         type: lecture
         title: Grouping on Multiple Columns, Merging
-        url:
+        url: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/lectures/lec06/lec06.ipynb
 ---
