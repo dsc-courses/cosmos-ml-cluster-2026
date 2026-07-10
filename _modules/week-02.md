@@ -6,8 +6,12 @@ days:
     events:
       - name: LEC
         type: lecture
-        title: Decision Trees & Clustering
-        url:
+        title: K Nearest Neighbors
+        url: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/lectures/lec07/lec07.ipynb
+      - name: PROJ
+        type: proj
+        title: "Week 2: Classification"
+        url: projects/proj02/
   - date: "2026-07-14"
     events:
       - name: LEC
@@ -26,7 +30,7 @@ days:
     events:
       - name: LEC
         type: lecture
-        title: K Nearest Neighbor & Logistic Regression
+        title: Decision Trees, Random Forests, and Model Selection
         url:
   - date: "2026-07-16"
     events:
@@ -42,6 +46,6 @@ days:
     events:
       - name: LEC
         type: lecture
-        title: Natural Language Processing
+        title: Logistic Regression
         url:
 ---

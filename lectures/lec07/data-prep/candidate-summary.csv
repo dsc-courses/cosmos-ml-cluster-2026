@@ -1,0 +1,15 @@
+genres,feature_1,feature_2,feature_pair,test_accuracy_k5,songs_per_genre
+classical / hip-hop / metal,danceability,acousticness,danceability + acousticness,0.9084380610412927,927
+classical / disco / metal,danceability,acousticness,danceability + acousticness,0.8940754039497307,927
+jazz / hip-hop / metal,danceability,acousticness,danceability + acousticness,0.8436974789915966,991
+classical / country / hip-hop,speechiness,acousticness,speechiness + acousticness,0.8357142857142857,933
+classical / hip-hop / rock,speechiness,acousticness,speechiness + acousticness,0.8178571428571428,933
+acoustic / hip-hop / metal,danceability,acousticness,danceability + acousticness,0.7798319327731092,991
+acoustic / disco / metal,danceability,acousticness,danceability + acousticness,0.7796327212020033,998
+classical / country / rock,acousticness,liveness,acousticness + liveness,0.7785714285714286,933
+classical / hip-hop / pop,acousticness,instrumentalness,acousticness + instrumentalness,0.7546816479400749,889
+country / hip-hop / metal,danceability,acousticness,danceability + acousticness,0.7361344537815127,991
+jazz / pop / rock,danceability,energy,danceability + energy,0.7043918918918919,986
+acoustic / hip-hop / rock,energy,speechiness,energy + speechiness,0.6947723440134908,987
+acoustic / pop / rock,danceability,energy,danceability + energy,0.652542372881356,983
+country / pop / rock,speechiness,acousticness,speechiness + acousticness,0.6195462478184991,954
