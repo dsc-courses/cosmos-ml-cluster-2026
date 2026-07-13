@@ -1,13 +1,22 @@
 ---
 layout: assignment
-title: "Week 2: Steel Plate Fault Classification"
+title: "Week 2: Classification"
 parent: "📝 Projects"
 released: true
 nav_order: 2
 ---
 
-# Week 2: Steel Plate Fault Classification
+# Week 2: Classification
 
+Aim to complete all labs and the challenge by end-of-day Friday. In particular, the challenge closes at 4pm sharp on Friday (and the winners will be revealed at that time).
+
+## Lab 5
+
+Complete this lab: [Lab 5][lab05]
+
+## Challenge: Steel Plate Fault Classification
+
+[lab05]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/labs/lab05/build/student/lab05.ipynb
 [starter-notebook]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/projects/proj02/steel_plate_faults.ipynb
 [kaggle-competition]: https://www.kaggle.com/t/6130717017bb4475a31c4f0044d61ff7
 
@@ -23,7 +32,7 @@ The data has 24 numeric measurements for each plate. The target, `fault_type`, i
 - `Bumps`
 - `Other_Faults`
 
-## Getting started
+### Getting started
 
 Open the [starter notebook][starter-notebook] in Google Colab. It downloads the competition data, trains a simple 1-nearest-neighbor model, and creates `submission.csv` in the Colab file browser. Download that file and upload it to Kaggle to make your first submission.
 
