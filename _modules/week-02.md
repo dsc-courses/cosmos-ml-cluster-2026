@@ -30,8 +30,8 @@ days:
     events:
       - name: LEC
         type: lecture
-        title: Decision Trees, Random Forests, and Model Selection
-        url:
+        title: Model Selection, Feature Engineering, and Cross-Validation
+        url: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/lectures/lec08/lec08.ipynb
   - date: "2026-07-16"
     events:
       - name: LEC

@@ -14,9 +14,14 @@ Aim to complete all labs and the challenge by end-of-day Friday. In particular, 
 
 Complete this lab: [Lab 5][lab05]
 
+## Lab 6
+
+Complete this lab: [Lab 6][lab06]
+
 ## Challenge: Steel Plate Fault Classification
 
 [lab05]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/labs/lab05/build/student/lab05.ipynb
+[lab06]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/labs/lab06/build/student/lab06.ipynb
 [starter-notebook]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/projects/proj02/steel_plate_faults.ipynb
 [kaggle-competition]: https://www.kaggle.com/t/6130717017bb4475a31c4f0044d61ff7
 
