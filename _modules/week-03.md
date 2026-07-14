@@ -6,7 +6,7 @@ days:
     events:
       - name: LEC
         type: lecture
-        title: Natural Language Processing (part 2)
+        title: Natural Language Processing
         url:
   - date: "2026-07-22"
     events:
