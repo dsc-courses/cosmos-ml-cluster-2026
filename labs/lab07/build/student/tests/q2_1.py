@@ -11,8 +11,9 @@ test = {   'name': 'q2_1',
                                                'True',
                                        'hidden': False,
                                        'locked': False},
-                                   {   'code': ">>> bool(make_occupancy_features(pd.DataFrame({'date': ['2015-02-07 00:00:00', '2015-02-09 12:00:00'], 'Light': [0, 1]}), ['Light'], "
-                                               "True)['is_weekend'].tolist() == [1, 0])\n"
+                                   {   'code': ">>> weekend_values = make_occupancy_features(pd.DataFrame({'date': ['2015-02-07 00:00:00', '2015-02-09 12:00:00'], 'Light': [0, 1]}), ['Light'], "
+                                               "True)['is_weekend']\n"
+                                               '>>> bool(weekend_values.tolist() == [True, False] and pd.api.types.is_bool_dtype(weekend_values.dtype))\n'
                                                'True',
                                        'hidden': False,
                                        'locked': False}],

@@ -18,10 +18,15 @@ Complete this lab: [Lab 5][lab05]
 
 Complete this lab: [Lab 6][lab06]
 
+## Lab 7
+
+Complete this lab: [Lab 7][lab07]
+
 ## Challenge: Steel Plate Fault Classification
 
 [lab05]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/labs/lab05/build/student/lab05.ipynb
 [lab06]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/labs/lab06/build/student/lab06.ipynb
+[lab07]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/labs/lab07/build/student/lab07.ipynb
 [starter-notebook]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/projects/proj02/steel_plate_faults.ipynb
 [kaggle-competition]: https://www.kaggle.com/t/6130717017bb4475a31c4f0044d61ff7
 
