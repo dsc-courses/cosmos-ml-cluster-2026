@@ -17,15 +17,15 @@ days:
       - name: LEC
         type: lecture
         title: Science Communication - Citations and References
-        url:
+        url: https://docs.google.com/document/d/1zBtBj1NAVIl_qNG9f9ut1iiB4CojbK31H3zJltXg8rU/edit?tab=t.0
       - name: ETHICS
         type: lecture
         title: UC San Diego Library - COSMOS Cluster 12 Machine Learning Resources
-        url:
+        url: https://ucsd.libguides.com/cosmos/machine-learning
       - name: ETHICS
         type: proj
         title: COSMOS Ethics Video Competition
-        url:
+        url: https://ipe.ucsd.edu/research/cosmos-essay.html
   - date: "2026-07-15"
     events:
       - name: LEC
