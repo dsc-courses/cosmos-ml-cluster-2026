@@ -46,6 +46,6 @@ days:
     events:
       - name: LEC
         type: lecture
-        title: Logistic Regression
-        url:
+        title: Decision Trees, Random Forests, and Logistic Regression
+        url: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/lectures/lec09/lec09.ipynb
 ---

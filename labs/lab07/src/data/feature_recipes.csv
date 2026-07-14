@@ -1,0 +1,13 @@
+recipe,sensor_columns,include_time
+all_sensors,"[""Temperature"", ""Humidity"", ""Light"", ""CO2"", ""HumidityRatio""]",False
+all_plus_time,"[""Temperature"", ""Humidity"", ""Light"", ""CO2"", ""HumidityRatio""]",True
+no_light_time,"[""Temperature"", ""Humidity"", ""CO2"", ""HumidityRatio""]",True
+no_co2_time,"[""Temperature"", ""Humidity"", ""Light"", ""HumidityRatio""]",True
+light_only,"[""Light""]",False
+light_time,"[""Light""]",True
+temperature_only,"[""Temperature""]",False
+temperature_time,"[""Temperature""]",True
+temperature_light_time,"[""Temperature"", ""Light""]",True
+humidity_light_time,"[""Humidity"", ""Light""]",True
+co2_light_time,"[""CO2"", ""Light""]",True
+temperature_humidity_time,"[""Temperature"", ""Humidity""]",True
