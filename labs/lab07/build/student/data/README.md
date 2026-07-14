@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Occupancy Detection data
 
 These files are cleaned copies of the data accompanying:
