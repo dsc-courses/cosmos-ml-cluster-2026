@@ -7,7 +7,7 @@ days:
       - name: LEC
         type: lecture
         title: Natural Language Processing
-        url: ../lectures/lec10/Lecture 10 - NLP Part 1.pdf
+        url: [NLP - Part1](./lectures/lec10/Lecture 10 - NLP Part 1.pdf)
   - date: "2026-07-21"
     events:
       - name: LEC
