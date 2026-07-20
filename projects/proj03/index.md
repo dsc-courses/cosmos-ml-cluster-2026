@@ -9,13 +9,13 @@ nav_order: 3
 
 # Week 3: Natural Language Processing and Neural Networks
 
-## Lab 7
-
-Complete this lab: [Lab 7 - Sentiment Analysis][sentiment-notebook]
-
 ## Lab 8
 
-Complete this lab: [Lab 8 - Spam Email Detection][] <!--[spam]-->
+Complete this lab: [Lab 8 - Sentiment Analysis][sentiment-notebook]
+
+## Lab 9
+
+Complete this lab: [Lab 9 - Spam Email Detection][] <!--[spam]-->
 
 
 <!-- - **KNN and Logistic Regression on Census Data**: [notebook (starter code)][knn-logistic-census]
