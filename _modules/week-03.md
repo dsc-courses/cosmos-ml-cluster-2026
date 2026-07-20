@@ -7,7 +7,7 @@ days:
       - name: LEC
         type: lecture
         title: Natural Language Processing
-        url: https://docs.google.com/presentation/d/1gfwtU-mmSNsQTUFcJ-ov3A56yUEnrSJuz8CCU6pmx4E/edit
+        url: ../lectures/lec10/Lecture 10 - NLP Part 1.pdf
   - date: "2026-07-21"
     events:
       - name: LEC
