@@ -30,7 +30,7 @@ Complete this lab: [Lab 8 - Spam Email Detection][] <!--[spam]-->
   - [starter notebook][emnist-notebook]
   - [Kaggle competition][emnist] -->
 
-[sentiment-notebook]: https://colab.research.google.com/drive/1fzho_UL7pyKHob9NcFy6JqVaTdyfuy0i#scrollTo=ZLV_Dtl2_ks7
+[sentiment-notebook]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/lab8_movie_review_sentiment_analysis.ipynb
 
 [spam]: https://drive.google.com/file/d/1LY36ywoZCGCdZBrUaA_TkPRsbW2sHtDv/view?usp=drive_link
 
