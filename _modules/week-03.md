@@ -7,12 +7,18 @@ days:
       - name: LEC
         type: lecture
         title: Natural Language Processing
+        url: https://docs.google.com/presentation/d/1gfwtU-mmSNsQTUFcJ-ov3A56yUEnrSJuz8CCU6pmx4E/edit
+  - date: "2026-07-21"
+    events:
+      - name: LEC
+        type: lecture
+        title: TBD
         url:
   - date: "2026-07-22"
     events:
       - name: LEC
         type: lecture
-        title: Neural Networks
+        title: TBD
         url:
   - date: "2026-07-23"
     events:
@@ -32,12 +38,14 @@ days:
     events:
       - name: PROJ
         type: proj
-        title: EMNIST Kaggle Competition
-        url: projects/proj03/
-  - date: "2026-07-24"
-    events:
+        title: TBD # EMNIST Kaggle Competition
+        url: TBD # projects/proj03/
       - name: LEC
         type: lecture
-        title: Random Numbers in Computing
+        title: TBD #Random Numbers in Computing
+        url:
+      - name: TRIP
+        type: Field Trip
+        title: Visit to Google San Diego
         url:
 ---
