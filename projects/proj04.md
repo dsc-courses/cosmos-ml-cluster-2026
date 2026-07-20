@@ -2,7 +2,7 @@
 layout: assignment
 title: 'Week 4: Natural Language Processing'
 parent: '📝 Projects'
-released: true
+released: false
 nav_order: 4
 ---
 
