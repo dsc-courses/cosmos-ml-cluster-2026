@@ -1,7 +1,6 @@
 ---
 title: Week 4
 weekNumber: 4
-released: false
 days:
   - date: "2026-07-27"
     events:

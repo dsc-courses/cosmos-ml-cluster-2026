@@ -17,8 +17,8 @@ nav_order: 1
 
 <!-- [Recordings](https://podcast.ucsd.edu/){: .btn .btn-blue } -->
 
-{: .note }
-**July 6, 2026:** Welcome to COSMOS 2026 Cluster 7!
+<!-- {: .note }
+**July 6, 2026:** Welcome to COSMOS 2026 Cluster 7! -->
 
 {% for module in site.modules %}
 {{ module }}
