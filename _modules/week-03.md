@@ -20,24 +20,25 @@ days:
         type: lecture
         title: SciComm Playlist
         url:
-      - name: PROJ
-        type: proj
-        title: Final Project Proposals
+      - name: LEC
+        type: lecture
+        title: Neural Networks
         url:
-      - name: PROJ
-        type: proj
-        title: Data Set Resources
-        url: resources/
+      
   - date: "2026-07-24"
     events:
       - name: PROJ
         type: proj
-        title: TBD # EMNIST Kaggle Competition
-        url: TBD # projects/proj03/
-      - name: LEC
-        type: lecture
-        title: TBD #Random Numbers in Computing
-        url:
+        title: Final Project Proposals. Submit by Friday!
+        url: https://forms.gle/uU8H9UnyDKNTf9Cs6
+      - name: PROJ
+        type: proj
+        title: Data Set Resources
+        url: resources/
+      # - name: LEC
+      #   type: lecture
+      #   title: TBD #Random Numbers in Computing
+      #   url:
       - name: TRIP
         type: Field Trip
         title: Visit to Google San Diego

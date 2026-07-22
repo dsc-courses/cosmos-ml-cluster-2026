@@ -15,4 +15,4 @@ of California at San Diego. Before joining UCSD, which is my PhD alma mater, I
 worked at Princeton University as teaching faculty.
 
 I love to travel around the world, although I won’t be able to anytime soon
-thanks to my 2 year old. I have visited all continents but one – Antarctica!
+thanks to my children. I have visited all continents but one – Antarctica!
