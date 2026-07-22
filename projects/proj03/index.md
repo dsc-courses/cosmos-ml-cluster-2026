@@ -15,7 +15,7 @@ Complete this lab: [Lab 8 - Sentiment Analysis][sentiment-notebook]
 
 ## Lab 9
 
-Complete this lab: [Lab 9 - Spam Email Detection][] <!--[spam]-->
+Complete this lab: [Lab 9 - Spam Email Detection][spam]
 
 
 <!-- - **KNN and Logistic Regression on Census Data**: [notebook (starter code)][knn-logistic-census]
@@ -32,7 +32,8 @@ Complete this lab: [Lab 9 - Spam Email Detection][] <!--[spam]-->
 
 [sentiment-notebook]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/lab8_movie_review_sentiment_analysis.ipynb
 
-[spam]: https://drive.google.com/file/d/1LY36ywoZCGCdZBrUaA_TkPRsbW2sHtDv/view?usp=drive_link
+<!-- [spam]: https://drive.google.com/file/d/1LY36ywoZCGCdZBrUaA_TkPRsbW2sHtDv/view?usp=drive_link -->
+[spam]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/labs/lab09/lab09_spam_filter.ipynb
 
 [emnist]: https://www.kaggle.com/t/9818dd9f8147490785fa55fce9a79f7d
 [emnist-notebook]: https://drive.google.com/file/d/1KXLYUm79MxXTKQ7FvC05ySgYOI2ZaNnN/view?usp=sharing
