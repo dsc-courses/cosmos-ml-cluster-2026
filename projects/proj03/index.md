@@ -11,7 +11,7 @@ nav_order: 3
 
 ## Lab 8
 
-Complete this lab: [Lab 8 - Sentiment Analysis][sentiment-notebook]
+Complete this lab: [Lab 8 - Sentiment Analysis][sentiment]
 
 ## Lab 9
 
@@ -30,7 +30,7 @@ Complete this lab: [Lab 9 - Spam Email Detection][spam]
   - [starter notebook][emnist-notebook]
   - [Kaggle competition][emnist] -->
 
-[sentiment-notebook]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/labs/lab08/lab08_movie_review_sentiment_analysis.ipynb
+[sentiment]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/labs/lab08/lab08_movie_review_sentiment_analysis.ipynb
 
 <!-- [spam]: https://drive.google.com/file/d/1LY36ywoZCGCdZBrUaA_TkPRsbW2sHtDv/view?usp=drive_link -->
 [spam]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/labs/lab09/lab09_spam_filter.ipynb
