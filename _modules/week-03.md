@@ -6,20 +6,14 @@ days:
     events:
       - name: LEC
         type: lecture
-        title: Natural Language Processing
-        url: ./lectures/lec10/Lecture10.pdf
-  - date: "2026-07-21"
-    events:
-      - name: LEC
-        type: lecture
-        title: TBD
-        url:
+        title: Natural Language Processing - Part 1
+        url: ./lectures/lec10/Lecture10-NLP-part1.pdf
   - date: "2026-07-22"
     events:
       - name: LEC
         type: lecture
-        title: TBD
-        url:
+        title: Natural Language Processing - Part 2
+        url: ./lectures/lec11/Lecture11-NLP-part2.pdf
   - date: "2026-07-23"
     events:
       - name: LEC
