@@ -23,11 +23,11 @@ days:
       - name: LEC
         type: lecture
         title: Neural Networks
-        url: ./lectures/lec12/Lecture12-Neural-Networks.pdf
+        url: ./lectures/lec12/lec12-Neural-Networks.pdf
       - name: LEC
         type: lecture
         title: Neural Networks Example
-        url: https://github.com/dsc-courses/cosmos-ml-cluster-2026/blob/main/lectures/lec12/lec12_mnist_mlp.ipynb
+        url: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/lectures/lec12/lec12_mnist_mlp.ipynb
       
   - date: "2026-07-24"
     events:

@@ -42,4 +42,4 @@ Complete this lab: [Lab 10 - Neural Networks][nn]
 [emnist]: https://www.kaggle.com/t/9818dd9f8147490785fa55fce9a79f7d
 [emnist-notebook]: https://drive.google.com/file/d/1KXLYUm79MxXTKQ7FvC05ySgYOI2ZaNnN/view?usp=sharing
 
-[nn]: https://github.com/dsc-courses/cosmos-ml-cluster-2026/blob/main/labs/lab10/lab10_nn_lab.ipynb
+[nn]: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/labs/lab10/lab10_nn_lab.ipynb
