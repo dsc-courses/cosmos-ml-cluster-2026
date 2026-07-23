@@ -23,7 +23,11 @@ days:
       - name: LEC
         type: lecture
         title: Neural Networks
-        url:
+        url: ./lectures/lec12/Lecture12-Neural-Networks.pdf
+      - name: LEC
+        type: lecture
+        title: Neural Networks Example
+        url: 
       
   - date: "2026-07-24"
     events:
