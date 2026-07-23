@@ -17,6 +17,10 @@ Complete this lab: [Lab 8 - Sentiment Analysis][sentiment]
 
 Complete this lab: [Lab 9 - Spam Email Detection][spam]
 
+## Lab 10
+
+Complete this lab: [Lab 10 - Neural Networks][nn]
+
 
 <!-- - **KNN and Logistic Regression on Census Data**: [notebook (starter code)][knn-logistic-census]
 
@@ -37,3 +41,5 @@ Complete this lab: [Lab 9 - Spam Email Detection][spam]
 
 [emnist]: https://www.kaggle.com/t/9818dd9f8147490785fa55fce9a79f7d
 [emnist-notebook]: https://drive.google.com/file/d/1KXLYUm79MxXTKQ7FvC05ySgYOI2ZaNnN/view?usp=sharing
+
+[nn]: https://github.com/dsc-courses/cosmos-ml-cluster-2026/blob/main/labs/lab10/lab10_nn_lab.ipynb
