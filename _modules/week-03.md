@@ -19,7 +19,7 @@ days:
       - name: LEC
         type: lecture
         title: SciComm Playlist
-        url:
+        url: https://docs.google.com/spreadsheets/d/1xe4TlYUj1z8Y0hRT18uFkdIcBUYE8q76Kciqqc64YYE/edit?usp=sharing
       - name: LEC
         type: lecture
         title: Neural Networks
