@@ -28,6 +28,10 @@ days:
         type: lecture
         title: Neural Networks Example
         url: https://colab.research.google.com/github/dsc-courses/cosmos-ml-cluster-2026/blob/main/lectures/lec12/lec12_mnist_mlp.ipynb
+      - name: TALK
+        type: lecture
+        title: Prof. Emily Aiken - Data science for targeting humanitarian aid
+        url: https://emilylaiken.github.io/
       
   - date: "2026-07-24"
     events:

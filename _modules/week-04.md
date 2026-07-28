@@ -24,11 +24,19 @@ days:
         type: proj
         title: Presentation Practicum
         url:
+      - name: TALK
+        type: lecture
+        title: Prof. Arun Kumar - What is like to be a cofounder of a AI startup? 
+        url: https://cseweb.ucsd.edu/~arunkk/
   - date: "2026-07-29"
     events:
       - name: PROJ
         type: proj
         title: Morning - Work on Final Project & Presentation
+      - name: TALK
+        type: lecture
+        title: Prof. Tiffany Amariuta-Bartell - TBD
+        url: https://amariutalab.org/
   - date: "2026-07-30"
     events:
       - name: PROJ
