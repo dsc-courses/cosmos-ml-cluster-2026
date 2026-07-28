@@ -46,5 +46,5 @@ days:
       - name: TRIP
         type: Field Trip
         title: Visit to Google San Diego
-        url: 
+        url: https://docs.google.com/spreadsheets/u/1/d/13MDA9wL6-mJCLXgaMBOaDooKCtlmWC5psd6auNjG39E/edit?usp=sharing
 ---
